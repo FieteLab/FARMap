@@ -1,0 +1,7 @@
+numpy
+torch
+wandb
+opencv-python
+pandas
+matplotlib
+
