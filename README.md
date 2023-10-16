@@ -1,5 +1,5 @@
-# Neuro-Inspired Efficient Map Building via Fragmentation and Recall
-Official implementation for **[Neuro-Inspired Efficient Map Building via Fragmentation and Recall (FarMap)]()**.
+# Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building
+Official implementation for **[Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building (FARMap)]()**.
 
 
 
@@ -31,9 +31,9 @@ python3 run_exp.py -wandb -env $ENV_ID
 
 ## Citation
 ```
-@article{hwang2023neuro,
+@article{hwang2023grid,
     author = {Jaedong, Hwang and Hong, Zhang-Wei and Chen, Eric and Boopathy, Akhilan and Agrawal, Pulkit and Fiete, Ila},
-    title = {Neuro-Inspired Efficient Map Building via Fragmentation and Recall},
+    title = {Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building},
     journal={arXiv preprint arXiv:2307.05793},
     year = {2023},
 }   
