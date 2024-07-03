@@ -1,5 +1,5 @@
 # Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building
-Official implementation for **[Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building (FARMap)](https://openreview.net/forum?id=cT8oOJ6Q6F)** in TMLR 2024 *(with Featured Certification)*.
+Official implementation for **[Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building (FARMap)](https://openreview.net/forum?id=cT8oOJ6Q6F)** in TMLR 2024 *(Featured Certification; 3.5% among accepted papers)*.
 We propose a new framework for mapping based on Fragmentation-And-Recall, or FARMap, that
 exploits grid cell-like map fragmentation via surprisal combined with a long-term memory to perform
 efficient online map building.
