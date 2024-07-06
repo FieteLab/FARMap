@@ -38,7 +38,7 @@ python3 run_exp.py -wandb -env $ENV_ID
 ## Citation
 ```
 @article{hwang2024grid,
-    author = {Jaedong, Hwang and Hong, Zhang-Wei and Chen, Eric and Boopathy, Akhilan and Agrawal, Pulkit and Fiete, Ila},
+    author = {Hwang, Jaedong and Hong, Zhang-Wei and Chen, Eric and Boopathy, Akhilan and Agrawal, Pulkit and Fiete, Ila},
     title = {Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building},
     journal={TMLR},
     year = {2024},
