@@ -45,5 +45,7 @@ If you use this code for your research, please cite our paper.
     title = {Grid Cell-Inspired Fragmentation and Recall for Efficient Map Building},
     journal={TMLR},
     year = {2024},
+    url={https://openreview.net/forum?id=cT8oOJ6Q6F},
+    note={Featured Certification}
 }   
 ```
